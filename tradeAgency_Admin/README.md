@@ -1,4 +1,8 @@
-# front
+# 참고 사이트
+### www.impick.co.kr
+
+### 프로젝트 구조 및 프로세스를 이해하는데 필요한 예시입니다.
+
 
 ## Project setup
 ```
