@@ -7,22 +7,22 @@
 ### 프로젝트 구조 및 프로세스를 이해하는데 필요한 예시입니다.
 
 # folderTree
-.
-├─ README.md
-├─ index.html
-├─ package.json
-└─ src
-   ├─ main.js
-   ├─ App.vue
-   ├─ components        컴포넌트
-   │  ├─ common
-   │  └─ ...
-   ├─ routes            라우터
-   │  ├─ index.js
-   │ 
-   ├─ views             view
-   │  ├─ MainView.vue
-   │  └─ ...
+.  
+├─ README.md  
+├─ index.html  
+├─ package.json  
+└─ src  
+   ├─ main.js  
+   ├─ App.vue  
+   ├─ components        컴포넌트  
+   │  ├─ common  
+   │  └─ ...  
+   ├─ routes            라우터  
+   │  ├─ index.js  
+   │   
+   ├─ views             view  
+   │  ├─ MainView.vue  
+   │  └─ ...  
    ├─ store             상태 관리
    │  ├─ index.js
    │  └─ ...
