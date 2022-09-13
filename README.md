@@ -23,15 +23,15 @@
    ├─ views             view  
    │  ├─ MainView.vue  
    │  └─ ...  
-   ├─ store             상태 관리
-   │  ├─ index.js
-   │  └─ ...
-   ├─ plugins           플러그인
-   │  ├─ axios.js       (interceptor)
-   │  └─ ...
-   ├─ locale            다국어(적용 버전 추후 공개)
-   │  ├─ index.js
-   │  ├─ en.json
-   │  └─ ...
-   ├─ assets 기타 자원
-      └─ images            이미지
+   ├─ store             상태 관리  
+   │  ├─ index.js  
+   │  └─ ...  
+   ├─ plugins           플러그인  
+   │  ├─ axios.js       (interceptor)  
+   │  └─ ...  
+   ├─ locale            다국어(적용 버전 추후 공개)  
+   │  ├─ index.js  
+   │  ├─ en.json  
+   │  └─ ...  
+   ├─ assets 기타 자원  
+      └─ images            이미지  
