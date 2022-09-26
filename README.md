@@ -1,4 +1,3 @@
-# gatewayMall_example
 
 
 # Projects
